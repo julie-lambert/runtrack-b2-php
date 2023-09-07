@@ -3,7 +3,7 @@
 
 function find_all_students() : array{
 
-    $db = "mysql:host=localhost;dbname=lp_official";
+$db = "mysql:host=localhost;dbname=lp_official";
 $host = "root";
 $password = "";
 
